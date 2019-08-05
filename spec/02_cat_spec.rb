@@ -25,4 +25,3 @@ describe Cat do
     expect(cat.mood).to eq("playful")
   end
   
-end
